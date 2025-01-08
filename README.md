@@ -1,4 +1,4 @@
-This paper presents a linear programming (LP) ap-
+This study presents a linear programming (LP) ap-
 proach to determine the optimal Time Multiplier Settings (TMS)
 for overcurrent relay coordination. Both Standard Inverse and
 Very Inverse relay characteristics are examined. The objective is
